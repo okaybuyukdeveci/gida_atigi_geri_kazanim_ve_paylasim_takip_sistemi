@@ -22,6 +22,5 @@ try {
     die("Veritabanına bağlanılamadı. Lütfen MySQL Workbench'de 'gida_paylasim' veritabanını oluşturun ve tekrar deneyin.");
 }
 
-// BASE_URL projenin doğru kökü olmalı. Eğer `pages/` altındaysa bu şekilde bırak.
 define('BASE_URL', 'http://localhost:8000/pages/');
 ?>
