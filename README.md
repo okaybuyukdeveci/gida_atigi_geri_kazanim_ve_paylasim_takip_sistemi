@@ -3,11 +3,15 @@
 🎯 Amaç: Toplumsal dayanışmayı güçlendirmek ve gıda israfını en aza indirmek.
 
 Bu web tabanlı sistem sayesinde;
+
 🏪 Marketler, 🍽️ restoranlar veya 👤 bireyler ellerindeki fazla gıda ürünlerini kolayca sisteme ekleyebilir.
+
 🤝 İhtiyaç sahipleri ise bu ürünleri görüntüleyip, hızlı ve adil bir şekilde talepte bulunabilir.
 
 ✅ Rol bazlı giriş sistemi sayesinde her kullanıcı, kendine özel bir panele sahiptir.
+
 ✅ Tüm işlemler kayıt altında tutulur ve takip edilebilir.
+
 ✅ Gıda israfı azalırken, sosyal yardımlaşma artar!
 
 
@@ -102,6 +106,8 @@ Uygulamanın sunduğu avantajlar:
 ✅ Gıda israfını azaltırken, sosyal yardımlaşmayı artırır.
 
 ---
+
+## Veritabanı Yapısı (Özet)
 
 | Alan         | Tür          | Açıklama                                      |
 | ------------ | ------------ | --------------------------------------------- |
