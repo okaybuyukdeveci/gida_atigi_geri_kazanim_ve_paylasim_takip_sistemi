@@ -1,5 +1,6 @@
 # 🥫 Gıda Atığı Geri Kazanım ve Paylaşım Takip Sistemi
 
+
 🎯 Amaç: Toplumsal dayanışmayı güçlendirmek ve gıda israfını en aza indirmek.
 
 Bu web tabanlı sistem sayesinde;
